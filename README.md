@@ -12,6 +12,7 @@ O projeto consiste em uma exemplificação prática do Padrão de Criação Fact
 
 # Tecnologias utilizadas
 ## Back end
+- IDE Eclipse
 - Java
 - Maven
 
